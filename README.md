@@ -14,13 +14,13 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #04AA6D;} /* Green */
+.button1 {background-color: #04AA6D; onclick="window.location.href='https://www.w3docs.com';} /* Green */
 </style>
 </head>
 <body>
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 <p>yo this is for 301.</p>
-<button class="button button1" onclick="window.location.href='https://www.w3docs.com'; >Green</button>
+<button class="button button1">Green</button>
 </body>
 </html>
