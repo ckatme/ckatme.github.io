@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #04AA6D; onclick="window.location.href='https://www.w3docs.com';} /* Green */
+.button1 {background-color: #04AA6D;} /* Green */
 </style>
 </head>
 <body>
